@@ -1,4 +1,4 @@
-<h1 align="center">I'm Raphael</h1>
+<h1 align="left">I'm Raphael</h1>
 
 
 - 🔭 I’m currently working on [Lexinode](https://github.com/Raphael-Soares/Grafos)
