@@ -1,6 +1,5 @@
 <h1 align="center">I'm Raphael</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raphael-soares" alt="raphael-soares" /></a> </p>
 
 - 🔭 I’m currently working on [Lexinode](https://github.com/Raphael-Soares/Grafos)
 
@@ -17,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphael-soares&show_icons=true&locale=en&layout=compact" alt="raphael-soares" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphael-soares&show_icons=true&locale=en" alt="raphael-soares" /></p>
+
