@@ -1,5 +1,4 @@
-<h1 align="center">H Raphael</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raphael-soares&label=Profile%20views&color=0e75b6&style=flat" alt="raphael-soares" /> </p>
+<h1 align="center">I'm Raphael</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raphael-soares" alt="raphael-soares" /></a> </p>
 
