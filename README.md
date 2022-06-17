@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **MySQL, Django**
 
-- 📫 You can reach me **soaresphaell@gmail.com**
+- 📫 You can reach me at **soaresphaell@gmail.com**
 
 
