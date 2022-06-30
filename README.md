@@ -7,4 +7,6 @@
 
 - 📫 You can reach me at **soaresphaell@gmail.com**
 
+![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-Soares&show_icons=true&theme=radical)
+
 
