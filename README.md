@@ -4,7 +4,11 @@
 </div>
 
 ###
-
+<div align="center">
+  <a href="https://open.spotify.com/user/Raphael">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=8i5301fsvjcyo93ia1lhigws8&width=900" alt="Spotify recently played"  />
+  </a>
+</div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
@@ -27,10 +31,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Raphael">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=8i5301fsvjcyo93ia1lhigws8&width=900" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
