@@ -5,8 +5,8 @@
 I'm Raphael, a front-end developer with a passion for technology and learning new things. 
 
 <div>
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=Raphael-Soares&show_icons=true&theme=dracula" />
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Soares&layout=compact&theme=dracula" />
+  <img height="150" align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=Raphael-Soares&show_icons=true&theme=dracula" />
+  <img height="150" align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Soares&layout=compact&theme=dracula" />
 </div>
 
 
