@@ -33,9 +33,6 @@ I hope you enjoy my profile! Thanks for stopping by. If you have any questions o
 
 -   https://github.com/Raphael-Soares/Pandas
 
-# App criar imagens com albuns mais escutados da semana
-
--   https://github.com/Raphael-Soares/LastFm-Semaninha
 
 # DracDo web/mobile
 
