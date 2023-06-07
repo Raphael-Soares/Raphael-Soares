@@ -25,9 +25,9 @@ I hope you enjoy my profile! Thanks for stopping by. If you have any questions o
 
 -   https://github.com/Raphael-Soares/google
 
-# Netflix Clone Reactjs + styled components
+# IMDb clone
 
--   https://github.com/Raphael-Soares/DracFlix
+-   https://github.com/Raphael-Soares/IMDb
 
 # Pandas aplicados em alguns problemas
 
