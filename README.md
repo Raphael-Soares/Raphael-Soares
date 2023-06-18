@@ -19,36 +19,4 @@ I hope you enjoy my profile! Thanks for stopping by. If you have any questions o
 ### 📊 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Soares&hide_progress=true&theme=radical)](https://github.com/Raphael-Soares/github-readme-stats)
 
-<hr>
 
-# Google clone Nextjs
-
--   https://github.com/Raphael-Soares/google
-
-# IMDb clone
-
--   https://github.com/Raphael-Soares/IMDb
-
-# Pandas aplicados em alguns problemas
-
--   https://github.com/Raphael-Soares/Pandas
-
-
-# DracDo web/mobile
-
--   https://github.com/Raphael-Soares/DracDo
--   https://github.com/Raphael-Soares/DracDoMobile
-
-# Instagram clone mobile + desenvolvendo o web em nextjs
-
--   https://github.com/Raphael-Soares/Instagram-clone
-
-# Landing pages
-
--   https://github.com/Raphael-Soares/Atena
--   https://github.com/Raphael-Soares/WebExpresso
-
-# Hackathon e Projeto final do curso
-
--   https://github.com/Raphael-Soares/BitsNBytes
--   https://github.com/LexiNodeGraph/LexiNode
