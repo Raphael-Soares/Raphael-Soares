@@ -1,22 +1,26 @@
-### Hi there 👋
 
-I'm Raphael, a front-end developer with a passion for technology and learning new things. 
+## Front-end Development
 
+![Front-end Skills](https://img.shields.io/badge/Skills-React%20%7C%20Next.js%20%7C%20Tailwind%20CSS%20%7C%20Sass-informational?style=flat&logo=react&logoColor=white&color=8B5CF6)
 
+- React.js
+- Next.js
+- Tailwind CSS
+- Sass
 
+## Backend Development
 
+![Backend Skills](https://img.shields.io/badge/Skills-Django%20%7C%20Python%20%7C%20Node.js%20%7C%20SQL-informational?style=flat&logo=python&logoColor=white&color=8B5CF6)
 
-### 🚀 Skills
+- Django
+- Python
+- Node.js
+- SQL
 
-![Skills](https://img.shields.io/badge/Skills-JavaScript%20%7C%20Node.js%20%7C%20React%20%7C%20React%20Native-informational?style=flat&logo=javascript&logoColor=white&color=8B5CF6)
+## DevOps
 
-### 📫 Get in touch
+![DevOps Skills](https://img.shields.io/badge/Skills-Linux%20%7C%20Docker%20%7C%20TDD-informational?style=flat&logo=linux&logoColor=white&color=8B5CF6)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raphael%20Soares-informational?style=flat&logo=linkedin&logoColor=white&color=8B5CF6)](https://www.linkedin.com/in/raphael-soares-a71896217/)
-
-I hope you enjoy my profile! Thanks for stopping by. If you have any questions or would like to connect, feel free to reach out to me on LinkedIn.
-
-### 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Soares&hide_progress=true&theme=radical)](https://github.com/Raphael-Soares/github-readme-stats)
-
-
+- Linux
+- Docker
+- Test-Driven Development (TDD)
