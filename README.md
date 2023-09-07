@@ -4,7 +4,7 @@
 ![Front-end Skills](https://img.shields.io/badge/Skills-React%20%7C%20Next.js%20%7C%20Tailwind%20CSS%20%7C%20Sass-informational?style=flat&logo=react&logoColor=white&color=8B5CF6)
 
 - React.js
-- Next.js
+- Vue.js
 - Tailwind CSS
 - Sass
 
