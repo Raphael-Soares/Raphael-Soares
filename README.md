@@ -19,7 +19,7 @@
 
 ## DevOps
 
-![DevOps Skills](https://img.shields.io/badge/Skills-Linux%20%7C%20Docker%20%7C%20TDD-informational?style=flat&logo=linux&logoColor=white&color=8B5CF6)
+![DevOps Skills](https://img.shields.io/badge/Skills-Linux%20%7C%20Docker-informational?style=flat&logo=linux&logoColor=white&color=8B5CF6)
 
 - Linux
 - Docker
