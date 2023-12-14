@@ -7,6 +7,7 @@
 - Vue.js
 - Tailwind CSS
 - Sass
+- TypeScript
 
 ## Backend Development
 
