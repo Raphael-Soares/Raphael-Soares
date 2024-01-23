@@ -24,4 +24,5 @@
 
 - Linux
 - Docker
+- Bash
 
