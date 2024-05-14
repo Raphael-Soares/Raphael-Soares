@@ -6,7 +6,6 @@
 - React.js
 - Vue.js
 - Tailwind CSS
-- Sass
 - TypeScript
 
 ## Backend Development
@@ -25,4 +24,5 @@
 - Linux
 - Docker
 - Bash
+- Jenkins
 
