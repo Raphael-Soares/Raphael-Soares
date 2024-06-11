@@ -13,6 +13,7 @@
 ![Backend Skills](https://img.shields.io/badge/Skills-Django%20%7C%20Python%20%7C%20Node.js%20%7C%20SQL-informational?style=flat&logo=python&logoColor=white&color=8B5CF6)
 
 - Django
+- Java
 - Python
 - Node.js
 - SQL
