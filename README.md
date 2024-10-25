@@ -5,7 +5,6 @@
 
 - React.js
 - Vue.js
-- Tailwind CSS
 - TypeScript
 
 ## Backend Development
